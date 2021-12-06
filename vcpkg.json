@@ -1,0 +1,7 @@
+{
+  "name": "test-vcpkg-wxwidgets",
+  "version": "0.0.1",
+  "dependencies": [
+    "wxwidgets"
+  ]
+}
